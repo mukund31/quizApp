@@ -1,0 +1,38 @@
+[
+    {
+        "question": "What is the capital city of Australia?",
+        "answers": [
+            {"text":"Sydney" , "correct":false},
+            {"text":"Melbourne" , "correct":false},
+            {"text":"Canberra" , "correct":true},
+            {"text":"Brisbane" , "correct":false}
+        ]
+    },
+    {
+        "question": "Which river is the longest in the world?",
+        "answers": [
+            {"text":"Amazon River" , "correct":false},
+            {"text":"Nile River" , "correct":true},
+            {"text":"Yangtze River" , "correct":false},
+            {"text":"Mississippi River" , "correct":false}
+        ]
+    },
+    {
+        "question": "Mount Everest is located in which two countries?",
+        "answers": [
+            {"text":"Nepal and China" , "correct":true},
+            {"text":"India and Nepal" , "correct":false},
+            {"text":"China and India" , "correct":false},
+            {"text":"Bhutan and Nepal" , "correct":false}
+        ]
+    },
+    {
+        "question": "Which desert is the largest hot desert in the world?",
+        "answers": [
+            {"text":"Gobi Desert" , "correct":false},
+            {"text":"Kalahari Desert" , "correct":false},
+            {"text":"Sahara Desert" , "correct":true},
+            {"text":"Arabian Desert" , "correct":false}
+        ]
+    }            
+]
